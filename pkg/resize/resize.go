@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/monkeydioude/hresize/pkg/format"
+	"github.com/monkeydioude/ahako/pkg/format"
 	"github.com/nfnt/resize"
 )
 

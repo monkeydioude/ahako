@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/monkeydioude/hresize/pkg/resize"
+	"github.com/monkeydioude/ahako/pkg/resize"
 )
 
 const (

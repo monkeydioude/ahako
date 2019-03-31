@@ -7,8 +7,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/monkeydioude/hresize/pkg/exif"
-	"github.com/monkeydioude/hresize/pkg/format"
+	"github.com/monkeydioude/ahako/pkg/exif"
+	"github.com/monkeydioude/ahako/pkg/format"
 	"github.com/nfnt/resize"
 )
 

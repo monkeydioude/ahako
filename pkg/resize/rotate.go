@@ -6,7 +6,7 @@ import (
 	"image/color"
 
 	"github.com/disintegration/imaging"
-	"github.com/monkeydioude/hresize/pkg/exif"
+	"github.com/monkeydioude/ahako/pkg/exif"
 )
 
 var rotateMap = map[uint16]float64{
